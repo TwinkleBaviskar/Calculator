@@ -31,7 +31,7 @@ This project is designed to demonstrate core programming concepts, clean UI desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-app.git
+   git clone https://github.com/your-username/calculator.git
 2. Open the project in Android Studio
 3. Let Gradle sync complete
 4. Run the app on an emulator or physical Android device
