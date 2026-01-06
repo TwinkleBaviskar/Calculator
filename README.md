@@ -46,6 +46,12 @@ This project is designed to demonstrate core programming concepts, clean UI desi
 ## 🎯 Learning Outcomes
 
 - Understanding basic arithmetic logic  
-- UI design and event handling in Android  
+- UI design and event handling in Android
 - Clean and structured code practices  
-- Input validation and error handling  
+- Input validation and error handling
+
+👩‍💻 **Developed By,**
+
+**Twinkle Baviskar**
+
+   
